@@ -1,4 +1,4 @@
-# Cryptography-using-Linear-Algebra
+# Cryptography-and-Linear-Algebra
 
 -Concepts of Linear Algebra are used to implement cryptography.
 
